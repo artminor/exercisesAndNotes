@@ -11,3 +11,5 @@ Exercise topics include: <br />
 	-Handling events <br />
 
 --------------------------------------------------------------------
+
+NOTE to self. organize coding exercises and upload. 

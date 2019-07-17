@@ -1,3 +1,6 @@
+import {MustHaveCoffee} from './coffee/getcoffee'
+
+
 var SweetSweetBasil = (function () {
     function SweetSweetBasil(name) {
         console.log("Hey, Basil do somthing " + name);
@@ -9,3 +12,6 @@ var SweetSweetBasil = (function () {
 }());
 var basil = new SweetSweetBasil("Basil!");
 basil.color();
+
+
+let coffee = new MustHaveCoffee();

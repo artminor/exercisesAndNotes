@@ -11,3 +11,20 @@ print("      /|")
 print("     / |")
 print("    /  |")
 print("   /___|")
+
+print(character_name.upper())
+
+print(character_name.isupper())
+
+
+print(len(character_name))
+
+print(character_name.index("o"))
+
+
+print(character_name.replace("n", "nson"))
+
+print(-2.945354)
+
+print(2 + 5.45)
+

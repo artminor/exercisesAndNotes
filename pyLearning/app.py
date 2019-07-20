@@ -1,4 +1,3 @@
-from math import *
 #
 # character_name = "John"
 # character_age = 35
@@ -40,4 +39,14 @@ from math import *
 # result = float(num1)+float(num2)
 # print(result)
 
+from Student import Student
 
+student1 = Student("Jim", "Business", 3.1, False)
+student2 = Student("Pam", "Art", 2.5, True)
+
+print(student2.gpa)
+
+
+# questions = [
+#     "What color are apples?\n a. Red/Green "
+# ]
